@@ -2,7 +2,7 @@ Um dos projetos criados por mim com base no que eu aprendi em meu curso de desen
 
 para iniciar o programa siga os seguintes passos:
 
--Baixe o arquivo e descoompacte
+-Baixe o arquivo e descompacte
 
 
 -Abra a pasta com os arquivos descompactados
